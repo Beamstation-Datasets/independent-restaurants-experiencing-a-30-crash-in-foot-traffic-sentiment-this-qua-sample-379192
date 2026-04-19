@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Nebraska
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `379192` |
 | Location | Nebraska |
 | Category | Food and Drink |
-| Full dataset size | 166 records |
-| Free sample size | 16 records (9.64%) |
-| Last export | 2026-04-09T20:21:17.336708+00:00 |
+| Full dataset size | 188 records |
+| Free sample size | 18 records (9.57%) |
+| Last export | 2026-04-17T00:17:24.880444+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-379192/releases/download/sample-latest/beamstation_379192_food_and_drink-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
